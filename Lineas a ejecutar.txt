@@ -1,0 +1,7 @@
+git init
+git add . /Agrega cambios al repositorio .git
+git commit -m 'Mensaje' /Agrega cambios al repositorio local intermedio
+git remote add origin url_del_repositorio /enlaza repositorio local con el repositorio remoto en github
+git push -u origin master /traslada todos los cambios desde el repositorio local al remoto
+
+
